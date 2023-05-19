@@ -11,5 +11,9 @@ Open Blender
 python requirements:
 requests==2.28.2
 
+from cmd line:
+  curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+  python get-pip.py
+  pip install requests
 
-Blender requires 3.2+
+
