@@ -1,4 +1,4 @@
-# py-Blender
+# fetchBTC.py
 A Blender script to fetch the price of Bitcoin in US dollars
 
 How to use
