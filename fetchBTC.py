@@ -21,7 +21,7 @@ counter = 5 # CHANGE THIS - ow many times to fetch BTC price
 def run_n_times():
     global counter
     counter -= 1
-    #draw_BTC(counter)
+    draw_BTC(counter)
     draw_dt(counter)
     if counter == 0:
         return None
