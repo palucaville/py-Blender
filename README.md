@@ -1,6 +1,8 @@
 # fetchBTC.py
 A Blender script** to fetch the price of Bitcoin in US dollars.
 
+https://youtu.be/wnJzZx4RdkA?si=cMNmbFgu5Y87s__D
+
 The script will use Python **requests** to call Coindesk API for the current price of Bitcoin, get the current time-date from the system, turn the strings  into text objects and render them.
 At each run all objects are given a random color and moved down.
 The number of lines and the "return" time interval can be easily set.
