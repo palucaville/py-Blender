@@ -5,7 +5,7 @@ bl_info = {
     'category': 'Object',
     # optional
     'version': (1, 0, 0),
-    'author': 'Luca Mastrodicasa github.com/palucaville/',
+    'author': 'github.com/palucaville/',
     'description': 'Fetch current bitcoin price in US dollars',
 }
 
